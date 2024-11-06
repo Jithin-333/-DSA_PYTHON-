@@ -134,20 +134,3 @@ my_linked_list.reverse()
 
 print('\nLL after reverse():')
 my_linked_list.print_list()
-
-"""
-    EXPECTED OUTPUT:
-    ----------------
-    LL before reverse():
-    1
-    2
-    3
-    4
-
-    LL after reverse():
-    4
-    3
-    2
-    1
-
-"""
